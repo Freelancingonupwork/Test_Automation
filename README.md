@@ -1,4 +1,4 @@
-# flutterautomationdemo
+# Flutter Automation Demo
 
 A new Flutter project.
 
